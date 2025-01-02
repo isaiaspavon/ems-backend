@@ -14,6 +14,10 @@ This project is the backend service for an Employee Management System (EMS), bui
 - **Java**: Core language for backend development.
 - **MySQL**: Relational database management system.
 - **Lombok**: Simplifies model class implementation by auto-generating getters, setters, and constructors.
+- **Spring Data JPA**: Simplifies data access and ORM for relational databases.
+- **Maven**: Dependency management and build automation tool.
+- **IntelliJ IDEA**: Integrated development environment used for building the project.
+- **Postman**: Tool for testing and debugging API endpoints.
 
 ## Installation and Setup
 1. Clone the repository:
